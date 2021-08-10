@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @itchymax
+- 👀 I’m interested in sats 
+- 🌱 I’m currently building itchy sats 
+- 📫 How to reach me: /dev/null
